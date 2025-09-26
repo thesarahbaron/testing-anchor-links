@@ -1,19 +1,21 @@
 _A wall of text is an excessively long post to a noticeboard or talk page discussion, which can often be so long that some don't read it_.
 
-# Types <br>
-Some walls of text are intentionally [disruptive](#diffs), such as when an editor attempts to overwhelm a discussion with a mass of irrelevant kilobytes. Other walls are due to lack of awareness of good practices, such as when an editor tries to cram every one of their cogent points into a single comprehensive response that is roughly the length of a short novel. Not all long posts are walls of text; some can be nuanced and thoughtful. Just remember: the longer it is, the less of it people will read.
+# Types 
+Some walls of text are intentionally disruptive, such as when an editor attempts to overwhelm a discussion with a mass of irrelevant kilobytes. Other walls are due to lack of awareness of good practices, such as when an editor tries to cram every one of their cogent points into a single comprehensive response that is roughly the length of a short novel. Not all long posts are walls of text; some can be nuanced and thoughtful. Just remember: the longer it is, the less of it people will read.
 
-## Variations (#diffs) 
-Chunk-o'-text defense <br>
+## Variations
+[Chunk-o'-text defense](#shortcuts_id) 
 "WP:COTD" redirects here. For what used to be collaboration of the day, see Wikipedia:Today's articles for improvement.
 
-### Shortcuts <br>
-#### WP:CHUNK<br>
-#### WP:COTD<br>
+
+### Shortcuts 
+#### WP:CHUNK
+#### WP:COTD
 The chunk-o'-text defense (COTD) is an alleged wikilawyering strategy whereby an editor accused of wrongdoing defends their actions with a giant chunk of text that contains so many diffs, assertions, examples, and allegations as to be virtually unanswerable. However, an equal-but-opposite questionable strategy is dismissal of legitimate evidence and valid rationales with a claim of "text-walling" or "TL;DR". Not every matter can be addressed with a one-liner, and validity does not correspond to length, especially the more complex the matter is. The COTD is characterized by noise and hand-waving, not simply verbosity.
 
 ## Massive wall of text
 
+<a id="shortcuts_id"></a>
 ### Shortcut<br>
 #### WP:MWOT<br>
 The massive wall of text (MWOT) often appears in disputes and bombards you with so much information and underhanded hostility that it's almost impossible to keep up without replying with one of your own. MWOTs are a good indication that people are talking past each other. Common features include:
