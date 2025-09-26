@@ -3,7 +3,7 @@ _A wall of text is an excessively long post to a noticeboard or talk page discus
 # Types <br>
 Some walls of text are intentionally [disruptive](#diffs), such as when an editor attempts to overwhelm a discussion with a mass of irrelevant kilobytes. Other walls are due to lack of awareness of good practices, such as when an editor tries to cram every one of their cogent points into a single comprehensive response that is roughly the length of a short novel. Not all long posts are walls of text; some can be nuanced and thoughtful. Just remember: the longer it is, the less of it people will read.
 
-## Variations {#diffs} 
+## Variations (#diffs) 
 Chunk-o'-text defense <br>
 "WP:COTD" redirects here. For what used to be collaboration of the day, see Wikipedia:Today's articles for improvement.
 
